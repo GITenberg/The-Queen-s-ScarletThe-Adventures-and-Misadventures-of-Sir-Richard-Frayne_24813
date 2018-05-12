@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24813#The-Queen-s-ScarletThe-Adventures-and-Misadventures-of-Sir-Richard-Frayne
 gutenberg_issued: '2008-03-12'
 gutenberg_type: Text
 identifiers:
